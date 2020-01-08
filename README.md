@@ -1,8 +1,8 @@
 
-# Project Title
+# Strobex
 📊 Size, dependencies, version, code coverage
 
-Short description.
+Minimalist strobe light mobile app built with React Native.
 
 ## Contents
 Table of contents goes here
